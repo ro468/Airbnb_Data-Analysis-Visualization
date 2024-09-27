@@ -19,6 +19,9 @@ Discovered that lower-priced listings tend to receive more reviews, emphasizing 
 Implemented interactive filtering to allow users to explore listings by price ranges and neighborhood groups.   
 This feature enhances decision-making for both hosts and travelers, making it easier to find relevant listings.
 
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/10bf5453-2828-46e6-96f2-ff8d69b78938">
+
+
 **Key Insights**  
 
 **For Hosts:**   
