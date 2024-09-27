@@ -31,14 +31,15 @@ Tips for improving guest experiences to enhance listing performance and increase
 Insights into pricing dynamics and room type distributions, enabling informed decisions when choosing accommodations.  
 Helped identify budget-friendly options and popular areas for stays.  
 
-<img width="613" alt="image" src="https://github.com/user-attachments/assets/82e5e7cb-a9d9-4545-9494-6a137d697b14">
-
 
 **Features**  
 
 **Interactive Dashboards:** Users can filter listings by neighborhood group, room type, price range, and more, making it easy to analyze the market.  
 **Data Visualizations:** Clear and informative visualizations showcasing trends in room types, price variations, and reviews.  
 **Recommendations:** Actionable insights for both Airbnb hosts to optimize their listings and travelers to find the best stays.  
+
+<img width="613" alt="image" src="https://github.com/user-attachments/assets/82e5e7cb-a9d9-4545-9494-6a137d697b14">
+
 
 **Tools & Libraries**  
 
